@@ -1,0 +1,14 @@
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\bin\Debug\net8.0\C# Project.exe
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\bin\Debug\net8.0\C# Project.deps.json
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\bin\Debug\net8.0\C# Project.runtimeconfig.json
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\bin\Debug\net8.0\C# Project.dll
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\bin\Debug\net8.0\C# Project.pdb
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\obj\Debug\net8.0\C# Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\obj\Debug\net8.0\C# Project.AssemblyInfoInputs.cache
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\obj\Debug\net8.0\C# Project.AssemblyInfo.cs
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\obj\Debug\net8.0\C# Project.csproj.CoreCompileInputs.cache
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\obj\Debug\net8.0\C# Project.dll
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\obj\Debug\net8.0\refint\C# Project.dll
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\obj\Debug\net8.0\C# Project.pdb
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\obj\Debug\net8.0\C# Project.genruntimeconfig.cache
+C:\Users\AbhishekChaudhari\OneDrive - Adenza\Desktop\C# Project\obj\Debug\net8.0\ref\C# Project.dll
